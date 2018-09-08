@@ -22,7 +22,7 @@
 	parameter WORD_LENGTH = 5
 )
 
-( Does not work
+( //This module does not work yet
 
 );
 
